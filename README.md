@@ -2,6 +2,8 @@
 
 > Originally published to https://github.com/jakeread/realtime-filament-width-measurement-and-correction on March 13th, 2025 
 
+> Mirrored to https://gitlab.cba.mit.edu/jakeread/realtime-filament-width-measurement-and-correction on March 13th, 2025 
+
 > I hereby declare the contents of this disclosure to the public domain so that it may serve as prior art. 
 
 I suspect that this device / idea / disclosure will be obvious to many folks in Fused Filament Fabrication 3D Printing, in fact I am quite sure I have heard mention of it elsewhere before, but I have been building a device and controller to execute on this and it comes time to put a stake in the ground, no matter how adhoc. The disclosure *does not* grant any rights to me specifically - this is for everyone, and would only serve to improve anyone else's (already public) disclosures. 
